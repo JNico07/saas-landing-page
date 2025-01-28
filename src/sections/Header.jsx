@@ -71,7 +71,7 @@ const Header = () => {
                         className={clsx("max-lg:hidden transition-transform duration-500 cursor-pointer")}
                       >
                         <img 
-                          src="/images/xoraxora.svg" 
+                          src="/images/xora.svg" 
                           width={160} 
                           height={55} 
                           alt="logo"
